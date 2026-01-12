@@ -1,5 +1,6 @@
 #include <linux/init.h>
 #include <linux/module.h>
+//License required for loading in kernel
 MODULE_LICENSE("Dual BSD/GPL");
 static int hello_init(void)
 {
